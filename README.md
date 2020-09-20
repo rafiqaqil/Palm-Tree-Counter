@@ -10,8 +10,8 @@ The image is sliced into managable sizes to batch process using multi threas to 
 
 # Screenshots of the Windows
 
-![Screenshot](TREE.png)
-![Screenshot](TREE2.png)
+![Screenshot](TREE.PNG)
+![Screenshot](TREE2.PNG)
 
-![Screenshot](TREE3.png)
-![Screenshot](TREE4.png)
+![Screenshot](TREE3.PNG)
+![Screenshot](TREE4.PNG)
