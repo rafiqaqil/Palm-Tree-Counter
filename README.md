@@ -10,9 +10,8 @@ The image is sliced into managable sizes to batch process using multi threas to 
 
 # Screenshots of the Windows
 
-![Screenshot](JAVA-ACC.png)
-![Screenshot](JAVA-ACC2.png)
+![Screenshot](TREE.png)
+![Screenshot](TREE2.png)
 
-# Screenshots of the Windows
-![Screenshot](JAVA-ACC.png)
-![Screenshot](JAVA-ACC2.png)
+![Screenshot](TREE3.png)
+![Screenshot](TREE4.png)
