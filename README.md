@@ -8,7 +8,7 @@ ready images huge reoltuions of above 50000px x 1600000px that was produced usin
 even using the 1080Ti 11 GB GPU it is still too heavy for processing.
 The image is sliced into managable sizes to batch process using multi threas to use the CPU and GPU more efficiently.
 
-# Screenshots of the Windows
+# Screenshots of program results
 
 ![Screenshot](TREE.PNG)
 ![Screenshot](TREE2.PNG)
